@@ -2,8 +2,8 @@
 
 ### 《说文解字》内容综合检索
 - 把 shuowenjiezi_search.html 下载后，直接浏览器点击打开
-- 为了能看到里面的篆体字，需安装“北师大说文篆体”字体库: [官网](https://wxy.bnu.edu.cn/xyzy/szzy/204310.html)
-- 或者用在线的：[说文解字检索](https://superzhangmch.github.io/tiny_tools/shuowenjiezi_search.html)
+- 为了能看到里面的篆体字，需安装“北师大说文篆体”字体库某一版本
+- 在线的：[说文解字检索](https://superzhangmch.github.io/tiny_tools/shuowenjiezi_search.html)
 
 
 ### 《说文解字》单字检索
